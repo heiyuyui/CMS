@@ -1,0 +1,9 @@
+VUE_APP_APIPATH=https://vue-course-api.hexschool.io
+VUE_APP_CUSTOMPATH=hheeiiyyuu
+heiyu6918@gmail.com
+Zz13571357
+
+VUE_APP_API=https://vue3-course-api.hexschool.io/
+VUE_APP_PATH=jasonlee2357
+jasonlee2357@gmail.com
+BhNSg3UABptH3ST
